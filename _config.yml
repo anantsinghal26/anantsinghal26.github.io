@@ -13,7 +13,7 @@ name                     : &name "Anant Singhal"
 description              : &description  "Prime Minister's Research Fellow, Electrical Engineering, IIT Jodhpur "
 url                      : https://anantsinghal26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ommaheshwari/ommaheshwari.github.io"
+repository               : "anantsinghal26/anantsinghal26.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Anant Singhal"
-  avatar           : "Anant.png"
+  avatar           : "Anant.jpeg"
   bio              : "Prime Minister's Research Fellow, Electrical Engineering, IIT Jodhpur"
-  location         : "NAno Devices and App Lab, IITJ"
+  location         : "Nano Devices and App Lab, IITJ"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        : "anant.singhal"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anant-singhal"
+  linkedin         : "anantsinghal26"
   orcid            : 
   pinterest        :
   soundcloud       :
