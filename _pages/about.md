@@ -14,10 +14,10 @@ I am a Research Scholar in the Discipline of Electrical Engineering at Nano Devi
 
 Research interests
 ======
- ⇒ Semiconductor Device Compact Modeling 
+ ⇒ Semiconductor Device Compact Modeling
  ⇒ Machine Learning based Semiconductor Research   
  ⇒ Advanced Semiconductor Devices  
- ⇒ Ferroelectric Tunnelling Junctions 
+ ⇒ Ferroelectric Tunnelling Junctions
  ⇒ Ferroelectric Memories 
 
 
