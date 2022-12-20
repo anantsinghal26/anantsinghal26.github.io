@@ -2,41 +2,22 @@
 title: "Teaching"
 collection: archive
 permalink: /teaching/
-venue: "IIT Gandhinagar, Electrical Engineering Department"
+venue: "IIT Jodhpur, Department of Electrical Engineering"
 ---
-* Fall 2022: **Teaching Assistant-PMRF**, NPTEL
+* Fall 2022: **Teaching Assistant**
  
-  * Course: **Analog Electronic Circuits-IIT Delhi**
+  * Course: **Signal and Systems**
 
-  * Instructor: [Prof. Shouri Chatterjee](https://web.iitd.ac.in/~shouri/)
-  * Session Link: [Google Meet- Sunday 3-4PM](https://meet.google.com/guz-mpsg-usm)
-  * Youtube Playlist: [NPTEL Analog Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdQctZEvUgvIq1Lr9j44rhFy)
+  * Instructor: [Dr. Amit Bhardwaj](http://home.iitj.ac.in/~amitb/index.html)
 
-* Fall 2022: **Teaching Assistant**, IIT Gandhinagar
+* Summer 2022: **Teaching Assistant**, IIT Jodhpur
  
-  * Course: **Physics of Transistors**
+  * Course: **Physical Electronics**
 
-  * Instructor: [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
+  * Instructor: [Dr. Harshit Agarwal](https://agarwalharshitblog.wordpress.com/)
   
-* Fall 2022: **Teaching Assistant**, IIT Gandhinagar
+* Summer 2022: **Teaching Assistant**, IIT Jodhpur
  
-  * Course: **Microelectronics Lab**
+  * Course: **Digital Design**
 
-  * Instructor: [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
-* Summer 2022: **Graduate Teaching Fellow**, IIT Gandhinagar
-
-  * Course: **Introduction to Analog and Digital Electronics**
-
-  * Instructor: [Prof. Jhuma Saha](https://iitgn.ac.in/faculty/ee/fac-jhuma) & [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
-
-* Fall 2021: **Teaching Assistant**, IIT Gandhinagar
- 
-  * Course: **Physics of Transistors**
-
-  * Instructor: [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
-
-* Summer 2021: **Teaching Assistant**, IIT Gandhinagar
-
-  * Course: **Introduction to Analog and Digital Electronics**
-
-  * Instructor: [Prof. Himanshu Shekhar](https://iitgn.ac.in/faculty/ee/fac-himanshu)
+  * Instructor: [Dr. Nitin Bhatia](http://home.iitj.ac.in/~nitin/)
