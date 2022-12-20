@@ -8,62 +8,64 @@ redirect_from:
   - /about.html/
 ---
 
-I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
+I am a Research Scholar in the Discipline of Electrical Engineering at Nano Devices and App Lab, IIT Jodhpur working with [Prof. Harshit Agarwal](https://agarwalharshitblog.wordpress.com/). I am currently working on Machine learning assisted Semiconductor Device Modeling for Advanced Semiconductor Devices.
 
 
 
 Research interests
 ======
+ ⇒ Semiconductor Device Compact Modeling 
+ ⇒ Machine Learning based Semiconductor Research   
  ⇒ Advanced Semiconductor Devices  
- ⇒ Semiconductor Processes  
- ⇒ Application of Machine Learning in Semiconductor Research  
- ⇒ Nanoscale devices  
- ⇒ 2D Materials based FETs  
+ ⇒ Ferroelectric Tunnelling Junctions 
+ ⇒ Ferroelectric Memories 
+
 
 Education
 ======
-* **PhD in Electrical Engineering**, IIT Gandhinagar, January 2021 - Present
+* **PhD in Electrical Engineering**, IIT Jodhpur, July 2021 - Present
 * **B.Tech in Electronics and Communication Enineering**, College of Technology, GBPUA&T, 2016-2020.
   
 Technical Skills
 ======
-**EDA Tools -** Synopsys TCAD, Cadence Virtuoso, Xilinx ISE Design Suite, MATLAB, LT-Spice, TINA, Arduino
+**EDA Tools -** HSPICE, EDA tools, Synopsys TCAD, GTS CAD tool, Cadence Virtuoso, Xilinx ISE Design Suite, Vivado, ICCAP, NGSPICE, MATLAB
 
-**Programming -** Python, Verilog, C, My SQL, LISP, HTML
+**Programming -** Python, Verilog-A, C, C++
 
 Work experience
 ======
-* **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
-  * NPTEL, IIT Delhi
-  * Course: Analog Electronic Circuits
-  
-* **2021 - Present: Teaching Assistant**
-  * IIT Gandhinagar
-  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab
+* **July 2022- Dec 2022 : Teaching Assistant**
+  * IIT Jodhpur
+  * Course: Signal and Systems
+  * Supervisor: Dr. Amit Bhardwaj, IIT Jodhpur
 
-* **Summer 2022 : Graduate Teaching Fellow**
-  * IIT Gandhinagar
-  * Course: Introduction to Analog and Digital Electronics
+* **Jan 2022- May 2022 : Teaching Assistant**
+  * IIT Jodhpur
+  * Course: Physical Electronics
+  * Supervisor: Dr. Harshit Agarwal, IIT Jodhpur
+  
+* **Jan 2022- May 2022: Teaching Assistant**
+  * IIT Jodhpur
+  * Courses: Digital Design
+  * Supervisor: Dr. Nitin Bhatia, IIT Jodhpur
 
 * **Summer 2019: Student Trainee**
   * Bharat Heavy Electricals Limited, Haridwar
   * Topic: Computerised Numeric Control
   * Supervisor: Shri PC Sinha, Deputy Manager, BHEL, Haridwar
   
-* **August 2017 - August 2020: Technical Head & Treasurer**
+* **August 2017 - August 2020: Technical Head**
   * Robotics Club Pantnagar
 
 
 Courses Completed
 ======
-* Physics of Transistors
-* Microfabrication and Semiconductor Processes
-* Machine Learning
-* Analog CMOS IC design
-* VLSI Design
-* Microelectronics lab
-* Quantum Chemistry
-* Artificial Intelligence 
-* Computing with Python
-* Electronics Instrumentation
-
+* Fundamentals of Machine Learning
+* Introduction to Material Characterization
+* Matrix Theory
+* Introduction to Compact Modelling
+* Micro Fabrication Technology
+* Integrated Circuit Technology
+* Digital VLSI Design
+* Analog and Interfacing Circuits 
+* Computational Physics
