@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=3YM2KYgAAAAJ}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-** Publications
+
 * **A. Singhal**, G. Pahwa and H. Agarwal, "A Novel Physics Aware ANN-Based Framework for BSIM-CMG Model Parameter Extraction," in IEEE Transactions on Electron Devices, doi: 10.1109/TED.2024.3381917.
 
 * **A. Singhal** and H. Agarwal, "Physics Informed Neural Network Based Time-Independent Schrodinger Equation Solver," in 8th IEEE EDTM 2024, Bangalore, India.
