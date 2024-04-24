@@ -4,7 +4,10 @@ main:
     url: /awards/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Publications"
+    url: /publications/  
     
   - title: "CV"
     url: /cv/
