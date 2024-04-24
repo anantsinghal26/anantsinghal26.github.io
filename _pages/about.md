@@ -34,6 +34,15 @@ Technical Skills
 
 Work experience
 ======
+* **Jan 2023- Present: Teaching Assistant**
+  * NPTEL
+  * Course: Digital Electronics (IITKGP), GATE
+
+* **July 2023- Dec 2023 : Teaching Assistant**
+  * IIT Jodhpur
+  * Course: Physical and Modeling of MOS Transistors
+  * Supervisor: Dr. Harshit Agarwal, IIT Jodhpur
+
 * **July 2022- Dec 2022 : Teaching Assistant**
   * IIT Jodhpur
   * Course: Signal and Systems
@@ -69,3 +78,4 @@ Courses Completed
 * Digital VLSI Design
 * Analog and Interfacing Circuits 
 * Computational Physics
+* Physics and Modeling of MOS Transistors
