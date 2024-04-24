@@ -10,10 +10,13 @@ venue: "IIT Jodhpur, Department of Electrical Engineering"
 
   * Instructor: [Prof. Goutam Saha](https://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
  
+  * Recorded Lectures: [Youtube](https://youtube.com/@anantsinghal26?si=e_9mvYio_4llgJDj)
+ 
 * Fall 2023: **Teaching Assistant - PMRF**
  
   * Course: **GATE - Electronics and Communication**
-
+ 
+  * Website: [NPTEL GATE](https://gate.nptel.ac.in/videosolutions.php?branchID=1&cid=2))
 
 * Fall 2023: **Teaching Assistant**, IIT Jodhpur
  
@@ -26,6 +29,8 @@ venue: "IIT Jodhpur, Department of Electrical Engineering"
   * Course: **Digital Electronics**
 
   * Instructor: [Prof. Goutam Saha](https://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
+  
+  * Recorded Lectures: [Youtube](https://youtube.com/@anantsinghal26?si=e_9mvYio_4llgJDj)
 
 * Fall 2022: **Teaching Assistant**
  
