@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-* <a href="https://drive.google.com/file/d/17by3sXK-qp_0a6Nk2gckmXQgUyVyBZAJ/view?usp=share_link" target="_blank">Detailed CV</a>
+* <a href="https://drive.google.com/drive/folders/1R4_sO4ds7iqxzB-gNzd6vf1nJkh4XAgB?usp=drive_link" target="_blank">Detailed CV</a>
