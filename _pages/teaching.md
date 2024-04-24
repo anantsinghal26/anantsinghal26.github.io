@@ -16,7 +16,7 @@ venue: "IIT Jodhpur, Department of Electrical Engineering"
  
   * Course: **GATE - Electronics and Communication**
  
-  * Website: [NPTEL GATE](https://gate.nptel.ac.in/videosolutions.php?branchID=1&cid=2))
+  * Website: [NPTEL GATE](https://gate.nptel.ac.in/videosolutions.php?branchID=1&cid=2)
 
 * Fall 2023: **Teaching Assistant**, IIT Jodhpur
  
