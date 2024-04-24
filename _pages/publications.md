@@ -9,8 +9,4 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=3YM2KYgAAAAJ}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+** A. Singhal, G. Pahwa and H. Agarwal, "A Novel Physics Aware ANN-Based Framework for BSIM-CMG Model Parameter Extraction," in IEEE Transactions on Electron Devices, doi: 10.1109/TED.2024.3381917.
