@@ -34,6 +34,9 @@ Technical Skills
 
 Work experience
 ======
+* **May 2022- Present: Chairperson**
+  * IEEE-EDS Student Branch Chapter, IIT Jodhpur
+
 * **Jan 2023- Present: Teaching Assistant**
   * NPTEL
   * Course: Digital Electronics (IITKGP), GATE
