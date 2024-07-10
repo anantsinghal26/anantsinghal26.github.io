@@ -17,8 +17,8 @@ Research interests
  ⇒ Semiconductor Device Compact Modeling                                                              
  ⇒ Machine Learning based Semiconductor Research   
  ⇒ Advanced Semiconductor Devices  
- ⇒ Ferroelectric Tunnelling Junctions                                                   
- ⇒ Ferroelectric Memories 
+ ⇒ Quantum Transport Simulations                                                   
+ ⇒ Electrostatic Discharge 
 
 
 Education
