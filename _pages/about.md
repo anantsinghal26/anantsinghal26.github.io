@@ -39,7 +39,7 @@ Work experience
 
 * **Jan 2023- Present: Teaching Assistant**
   * NPTEL
-  * Course: Digital Electronics (IITKGP), GATE
+  * Course: Introduction to Semiconductor Devices (IITH), Digital Electronics (IITKGP), GATE
 
 * **July 2023- Dec 2023 : Teaching Assistant**
   * IIT Jodhpur
