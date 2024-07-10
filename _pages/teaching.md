@@ -4,6 +4,14 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Jodhpur, Department of Electrical Engineering"
 ---
+* Fall 2024: **Teaching Assistant - PMRF**
+ 
+  * Course: **Introduction to Semiconductor Devices**
+
+  * Instructor: [Prof. Naresh Kumar Emani](https://iith.ac.in/ee/naresh/)
+ 
+  * Recorded Lectures: [Youtube](https://youtube.com/@anantsinghal26?si=e_9mvYio_4llgJDj)
+
 * Spring 2024: **Teaching Assistant - PMRF**
  
   * Course: **Digital Electronics**
