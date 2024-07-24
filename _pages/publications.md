@@ -12,7 +12,7 @@ author_profile: true
 
 * **A. Singhal**, Y. Machhiwar, S. Singh, G. Pahwa, and H. Agarwal, "ANN-based Framework for Modeling Process Induced Variation using BSIM-CMG Unified Model," in Solid State Electronics, Elsevier, 2024 **(Accepted)**.
 
-* **A. Singhal**, G. Gill, G. Pahwa, A. Lahgere, and H. Agarwal, "Improved Neural Network-Based Modeling of GAA Transistors Including Gate and Substrate Currents," in IEEE SISPAD, California, USA, 2024 **(Accepted)**.
+* **A. Singhal**, G. Gill, G. Pahwa, A. Lahgere, and H. Agarwal, "Improved Compact Modeling of Snapback Behaviour in ESD MOSFETs," in IEEE SISPAD, California, USA, 2024 **(Accepted)**.
 
 * **A. Singhal**, G. Pahwa and H. Agarwal, "A Novel Physics Aware ANN-Based Framework for BSIM-CMG Model Parameter Extraction," in IEEE Transactions on Electron Devices, vol. 71, no. 5, pp. 3307-3314, May 2024, doi: 10.1109/TED.2024.3381917.
 
