@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=3YM2KYgAAAAJ}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **A. Singhal**and H. Agarwal, "ANN-Driven Modeling of Gate-All-Around Transistors Incorporating Complete Current Profiles," in IEEE Transactions on Nanotechnology, vol. 24, pp. 110-114, February 2025, doi: 10.1109/TNANO.2025.3542165.
+* **A. Singhal** and H. Agarwal, "ANN-Driven Modeling of Gate-All-Around Transistors Incorporating Complete Current Profiles," in IEEE Transactions on Nanotechnology, vol. 24, pp. 110-114, February 2025, doi: 10.1109/TNANO.2025.3542165.
 
 * **A. Singhal**, Y. Machhiwar, S. Kumar, G. Pahwa, and H. Agarwal, "ANN-based Framework for Modeling Process Induced Variation using BSIM-CMG Unified Model," Solid State Electronics, Volume 220, 108988, July 2024.
 
