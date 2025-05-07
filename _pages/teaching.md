@@ -4,6 +4,14 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Jodhpur, Department of Electrical Engineering"
 ---
+* Spring 2025: **Teaching Assistant - PMRF**
+ 
+  * Course: **Semiconductor Device Modeling and Simulation**
+
+  * Instructor: [Prof. Vivek Dixit](https://www.iitkgp.ac.in/department/EC/faculty/ec-vdixit)
+ 
+  * Recorded Lectures: [Youtube](https://youtube.com/@anantsinghal26?si=e_9mvYio_4llgJDj)
+
 * Fall 2024: **Teaching Assistant - PMRF**
  
   * Course: **Introduction to Semiconductor Devices**
